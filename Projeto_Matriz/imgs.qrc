@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>img/code.png</file>
+        <file>img/save.png</file>
+        <file>img/soma.png</file>
+        <file>img/menos.png</file>
+        <file>img/mult.png</file>
+        <file>img/up.png</file>
+        <file>img/down.png</file>
+        <file>img/simetrico.png</file>
+        <file>img/transposta.png</file>
+        <file>img/identidade.png</file>
+        <file>img/potencia.png</file>
+        <file>img/igual.png</file>
+        <file>img/diff.png</file>
+        <file>img/Logopuc.png</file>
+    </qresource>
+</RCC>
